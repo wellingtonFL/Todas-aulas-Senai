@@ -1,0 +1,5 @@
+CSS
+
+Classes: --   EX:  .classe1{color:blue:}
+Ids:--    EX:   #b1 {color:blue:}
+

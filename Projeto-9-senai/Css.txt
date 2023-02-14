@@ -1,0 +1,19 @@
+CSS (CSS3)
+Sintaxe:
+seletore{ propriedades:valor; propriedade:valor;}
+
+EX: { color:blue; font-size:12px;}
+
+CSS- TAG
+CSS-Interno
+CSS-Externo
+
+
+h1{
+    color: red;
+    font-size: 40px;
+}
+p{
+    color: blue;
+    font-size: 18px;
+}

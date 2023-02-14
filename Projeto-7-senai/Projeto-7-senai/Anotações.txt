@@ -1,0 +1,20 @@
+Listas
+
+<ol>- listas ordenadas (1,a,a,I)
+<ul>- Marcadores ( circle,square,disc)
+<li>- intens de uma lista
+
+
+<ol ttype="a">
+<li> 1 </li>
+<li> 2 </li>
+<li> 3 </li>
+</o>
+
+
+<ul>
+A.1
+B.2
+C.3
+</ul>
+

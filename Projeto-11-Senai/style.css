@@ -1,0 +1,77 @@
+
+table{
+    width: 100%;
+    height: 920px;
+    border: 1;
+
+}
+.cor1{ 
+    background-color:brown;
+    width: 316px;
+
+}
+.texto{ 
+    text-align: center;
+     width: 1900px; 
+}
+.imagens2{
+    width: 633px; 
+    height: 552px; 
+    
+}
+.img1{
+    width: 633px;
+   height: 552px;
+
+}
+.quadradinhos{
+    height: 180px;
+
+    width: 633px;
+}
+
+
+
+
+
+
+
+.imgum{
+
+    height: 460px;
+
+    width: 950px;
+}
+.paginaum{
+      text-align: center;
+    height: 460px;
+
+    width: 1900px;
+
+}
+
+.imgpaginaum{
+      width: 960px;
+} 
+
+
+.imgtres{ 
+    width:950px ;
+    height:460px ;
+}
+
+.b17{
+    background-color: aqua;
+}
+
+.b5{
+    border: 1px;
+}
+
+
+.b45{
+    text-align: center;
+}
+.inside{
+    list-style-type: katakana;
+}

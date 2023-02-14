@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color: blue;
+    font-size: 18px;
+}
+h2{
+    font-size: 60px;
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}

@@ -1,0 +1,54 @@
+
+table{
+    width: 100%;
+    height: 920px;
+
+}
+.cor1{ 
+    background-color:brown;
+    width: 316px;
+
+}
+.texto{ 
+    text-align: center;
+     width: 1900px; 
+}
+.imagens2{
+    width: 633px; 
+    height: 552px; 
+    
+}
+.img1{
+    width: 633px;
+   
+
+}
+.quadradinhos{
+    height: 180px;
+
+    width: 633px;
+}
+
+
+
+
+
+
+
+.imgum{
+
+    height: 460px;
+
+    width: 633px;
+}
+.paginaum{
+      text-align: center;
+    height: 460px;
+
+    width: 633px;
+
+}
+
+.imgpaginaum{
+      width: 760px;
+} 

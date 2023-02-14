@@ -1,0 +1,37 @@
+h1{
+    font-size: 70px;
+    background-color: rgb(25, 25, 185);
+    color: aliceblue;
+}
+
+#b1{
+    color: red;
+    font-size: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.b3{
+    color:green;
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.altera1{
+    color:yellow;
+    background-color: black;
+    text-align: center;
+    font: 20px;
+ 
+}
+.altera2{
+    color:black;
+    background-color: yellow;
+    text-align: center;
+    font: 20px;
+}
+table{
+    width: 30%;
+    height: 200px;
+    border-color: blue;
+    border-style: groove;
+    border: 1;
+}

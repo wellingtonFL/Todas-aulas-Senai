@@ -1,0 +1,12 @@
+CSS
+
+Classes: --   EX:  .class1{color:blue:} Classe serve para diversas coisas 
+Ids:--    EX:   #b1 {color:blue:}  já é para atribuir uma coisa só.ex;na pagina toda
+
+<p class="classe1">
+texto
+</p>
+
+<h1>Robson lindo</h1>
+<h1 class="classe1">Robson lindo</h1>
+<p id="b1"> Robson lindo</p>
